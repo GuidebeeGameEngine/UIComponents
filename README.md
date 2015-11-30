@@ -315,7 +315,7 @@ public class SecondWindow extends BaseWindow{
 }
 ```
 
-Here we used horizontalGroup to put the back button. for more information on the usage of the Widget ,please refer to the javadoc
+Here we used horizontalGroup to put the back button. for more information on the usage of the Widget ,please refer to the [javadoc](http://guidebeegameengine.com/javadoc/reference/packages.html)
 
 The video demo
 
